@@ -10,8 +10,6 @@ const movieSchema = new mongoose.Schema({
 
 });
 
-
-
 // Create our model, which will create the collection, 
 // and return to us and object that can perform CRUD
 // operations on that collection (typically you'll use the model in controller files)
